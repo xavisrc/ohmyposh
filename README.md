@@ -1,7 +1,7 @@
 # INSTALLATION
 
 This scripts allows you install Oh-My-Posh except the configuration file. All the contens of 
-the script can be read from officially documentation at [https://ohmyposh.dev/docs/installation/linux
+the script can be read from officially documentation at https://ohmyposh.dev/docs/installation/linux
 
 ## *Configure Themes*
 
