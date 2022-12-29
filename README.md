@@ -7,7 +7,7 @@ the script can be read from officially documentation at https://ohmyposh.dev/doc
 
 - Type in your terminal if you no have idea wich shell you're currently using, 
 
-<pre><code>`oh-my-posh get shell`</code></pre>
+<pre><code>oh-my-posh get shell</code></pre>
 
 - Add to the last line of ~/.bashrc, go first to your gome cd $HOME
 
